@@ -1,2 +1,3 @@
 # ai-automation-workflow
-My AI automation workflow files
+
+`claude-code-initialization-notes` - my own note to initialize `claude-code`
